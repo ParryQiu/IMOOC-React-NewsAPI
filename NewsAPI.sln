@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsAPI", "NewsAPI\NewsAPI.csproj", "{660997E7-EDC6-433F-9E5B-1CE33BC50166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsAPI.MongoDB", "NewsAPI.MongoDB\NewsAPI.MongoDB.csproj", "{9A86B2C0-D251-41DE-9A7F-AA7473B77180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Helper", "Common.Helper\Common.Helper.csproj", "{F96545A9-0FAC-45AB-8362-0FF5B1D52E63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{660997E7-EDC6-433F-9E5B-1CE33BC50166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660997E7-EDC6-433F-9E5B-1CE33BC50166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660997E7-EDC6-433F-9E5B-1CE33BC50166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660997E7-EDC6-433F-9E5B-1CE33BC50166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A86B2C0-D251-41DE-9A7F-AA7473B77180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A86B2C0-D251-41DE-9A7F-AA7473B77180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A86B2C0-D251-41DE-9A7F-AA7473B77180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A86B2C0-D251-41DE-9A7F-AA7473B77180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F96545A9-0FAC-45AB-8362-0FF5B1D52E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96545A9-0FAC-45AB-8362-0FF5B1D52E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96545A9-0FAC-45AB-8362-0FF5B1D52E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96545A9-0FAC-45AB-8362-0FF5B1D52E63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
